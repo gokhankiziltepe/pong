@@ -41,6 +41,8 @@
  * #g++ -Wall main.cpp -lGLEW -lGL -lglut -lGLU -lassimp -o pong 
  * 
  * An *.exe version of executable for Windows also added to repo
+ * 
+ * *.gch files are deleted
  * */
 #include <iostream>
 #include <GL/glew.h>
